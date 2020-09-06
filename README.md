@@ -1,5 +1,5 @@
 # MultipleCarouselBootstrap
-In this demonstration we will see how to use Bootstrap Carousel class to show multiple carousels in the HTML page.
+In this demonstration we will see how to use Bootstrap Carousel class to show multiple carousels in the HTML page.<br>
 Now also enjoy the card implementation with Tab navigation
 <br><br>
 For any query or help you can reach out to me,<br>
